@@ -26,6 +26,32 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
 ## 🚀 Featured Projects
 
 <table bordercolor="#30363d">
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 <a href="https://github.com/sksalapur/RoutePix">RoutePix</a></h3>
+      <br />
+      <p><strong>Unlimited Telegram-backed Cloud Albums</strong></p>
+      <p>Zero-cost collaborative photo sharing using Telegram Bot API as a backend. WorkManager uploads & AES-256-GCM encryption.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🕉️ <a href="https://github.com/sksalapur/SanatanaGPT">SanatanaGPT</a></h3>
+      <br />
+      <p><strong>RAG Chatbot Grounded in Hindu Scriptures</strong></p>
+      <p>Firestore vector search over embeddings to provide context to Groq/Gemini LLMs, citing exact verses for every answer.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLaMA%20%7C%20Gemini-4285F4?logo=google&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ <a href="https://github.com/sksalapur/ReviewTrust">ReviewTrust AI</a></h3>
@@ -39,17 +65,18 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📸 <a href="https://github.com/sksalapur/RoutePix">RoutePix</a></h3>
+      <h3 align="center">📱 <a href="https://github.com/sksalapur/gsmarena-scraper">GSMArena Scraper</a></h3>
       <br />
-      <p><strong>Unlimited Telegram-backed Cloud Albums</strong></p>
-      <p>Zero-cost collaborative photo sharing using Telegram Bot API as a backend. WorkManager uploads & AES-256-GCM encryption.</p>
+      <p><strong>Anti-Bot E-Commerce Data Pipeline</strong></p>
+      <p>Massive-scale extraction of 2,750+ smartphones into a strictly typed SQLite relational database using proxy rotation.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Engineering-FF9900?logo=amazondynamodb&logoColor=white" />
       </p>
     </td>
   </tr>
+  <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚌 <a href="https://github.com/sksalapur/NextStop">NextStop</a></h3>
@@ -63,14 +90,14 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🕉️ <a href="https://github.com/sksalapur/SanatanaGPT">SanatanaGPT</a></h3>
+      <h3 align="center">✅ <a href="https://github.com/sksalapur/TaskSync">TaskSync</a></h3>
       <br />
-      <p><strong>RAG Chatbot Grounded in Hindu Scriptures</strong></p>
-      <p>Firestore vector search over embeddings to provide context to Groq/Gemini LLMs, citing exact verses for every answer.</p>
+      <p><strong>Collaborative Task Management App</strong></p>
+      <p>A fast, synchronized task tracking system with real-time updates and seamless state management.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLaMA%20%7C%20Gemini-4285F4?logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room_DB-003B57?logo=sqlite&logoColor=white" />
       </p>
     </td>
   </tr>
