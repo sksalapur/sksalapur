@@ -1,108 +1,94 @@
-<h1 align="center">Hey, I'm Shashank 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shashank%20Salapur&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Python%20Backend%20Engineer&descAlignY=51&descAlign=62" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+Things+That+Actually+Ship;Android+%7C+Kotlin+%7C+Jetpack+Compose;Python+%7C+FastAPI+%7C+ML+Pipelines;Open+To+Remote+%26+Freelance+Roles" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <strong>Android Developer & Python Backend Engineer</strong><br/>
-  I build things that actually ship — full-stack Android apps, AI/ML pipelines, and cloud-deployed APIs.
-</p>
-
-<p align="center">
-  <a href="mailto:sksalapur@gmail.com"><img src="https://img.shields.io/badge/Gmail-sksalapur%40gmail.com-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sksalapur"><img src="https://img.shields.io/badge/LinkedIn-sksalapur-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20Freelance-brightgreen" />
+  <a href="mailto:sksalapur@gmail.com"><img src="https://img.shields.io/badge/Gmail-sksalapur%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/sksalapur"><img src="https://img.shields.io/badge/LinkedIn-sksalapur-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20Freelance-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 What I Do
+## ⚡ What I Do
 
-I'm a developer who's comfortable across the full stack — from writing a production Android app in Kotlin to spinning up a FastAPI ML backend on Docker/Render.
+I'm a developer who's comfortable across the full stack. My sweet spot is building **complete, deployed products**, not just prototypes. Every project here has a README, a real usecase, and code that runs in production.
 
-My sweet spot is building **complete, deployed products**, not just prototypes. Every project here has a README, a real use case, and code that runs in production.
-
-**Currently focused on:**
-- Android development with Jetpack Compose + Kotlin
-- Python backends — FastAPI, ML pipelines (scikit-learn, LIME, VADER)
-- AI/RAG systems — Firestore vector search, Groq LLaMA, Google Gemini
-- Open to remote roles and freelance Android / Python projects
-
----
-
-## 🛠️ Tech Stack
-
-**Android**
-`Kotlin` · `Jetpack Compose` · `Material 3` · `MVVM` · `Dagger Hilt` · `WorkManager` · `Room` · `Retrofit` · `Firebase`
-
-**Backend & ML**
-`Python` · `FastAPI` · `scikit-learn` · `LIME` · `VADER` · `TF-IDF` · `AdaBoost` · `Docker` · `Render`
-
-**AI / RAG**
-`Groq LLaMA 3.3 70B` · `Google Gemini` · `Firestore Vector Search` · `sentence-transformers` · `LangChain`
-
-**Web**
-`Next.js` · `React` · `TypeScript` · `TailwindCSS` · `Firebase Hosting`
+- 🤖 **AI / ML**: Creating intelligent systems using Firestore vector search, Groq LLaMA, Google Gemini, `scikit-learn`, `LIME`, and `VADER`.
+- 📱 **Android**: Building native Android apps using `Kotlin`, `Jetpack Compose`, `MVVM`, and `Dagger Hilt`.
+- ⚙️ **Backend**: Creating robust APIs and servers using `Python`, `FastAPI`, `Docker`, and `Render`.
+- 🕸️ **Web**: Full-stack web app development with `Next.js`, `React`, `TypeScript`, and `TailwindCSS`.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ [ReviewTrust AI](https://github.com/sksalapur/ReviewTrust)
-> Fake review detector for Amazon, Flipkart, Nykaa, Myntra & Meesho
-
-6-stage ML pipeline: scrape → classify (TF-IDF + AdaBoost) → sentiment (VADER) → spike detection → reviewer profiling → LIME explainability. Gives you a **Trust Score (0–100)** with per-review reasons like *"Excessive promotional language detected."* Android app + FastAPI backend deployed on Render.
-
-`Python` `FastAPI` `Kotlin` `Jetpack Compose` `scikit-learn` `LIME` `RapidAPI` `Docker`
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ <a href="https://github.com/sksalapur/ReviewTrust">ReviewTrust AI</a></h3>
+      <br />
+      <p><strong>Fake review detector for 5 E-Commerce Platforms</strong></p>
+      <p>6-stage ML pipeline (TF-IDF + AdaBoost) giving a Trust Score with LIME per-review reasoning.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 <a href="https://github.com/sksalapur/RoutePix">RoutePix</a></h3>
+      <br />
+      <p><strong>Unlimited Telegram-backed Cloud Albums</strong></p>
+      <p>Zero-cost collaborative photo sharing using Telegram Bot API as a backend. WorkManager uploads & AES-256-GCM encryption.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚌 <a href="https://github.com/sksalapur/NextStop">NextStop</a></h3>
+      <br />
+      <p><strong>Real-time School Bus GPS Tracking</strong></p>
+      <p>Live GPS push every 4s, Haversine ETA, FMC proximity alerts, and role-based Compose UI (Driver/Student/Admin).</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Maps-34A853?logo=googlemaps&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🕉️ <a href="https://github.com/sksalapur/SanatanaGPT">SanatanaGPT</a></h3>
+      <br />
+      <p><strong>RAG Chatbot Grounded in Hindu Scriptures</strong></p>
+      <p>Firestore vector search over embeddings to provide context to Groq/Gemini LLMs, citing exact verses for every answer.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLaMA%20%7C%20Gemini-4285F4?logo=google&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📸 [RoutePix](https://github.com/sksalapur/RoutePix)
-> Collaborative photo albums backed by Telegram — free, unlimited, zero compression
+## 📊 GitHub Analytics
 
-Repurposes the Telegram Bot API as a zero-cost cloud storage backend. Every photo uploads as both a CDN-cached thumbnail (Coil) and a byte-perfect original. Persistent WorkManager upload queue survives app kills. AES-256-GCM encrypted bot credentials. 12+ versioned releases.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalapur&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" alt="GitHub Streak" />
+</div>
 
-`Kotlin` `Jetpack Compose` `Telegram Bot API` `WorkManager` `Room` `Firestore` `Coil`
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sksalapur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&background=1a1b27" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksalapur&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" height="150" alt="Top Languages" />
+</div>
 
-### 🚌 [NextStop](https://github.com/sksalapur/NextStop)
-> Real-time school bus tracking with per-stop ETA and push alerts
 
-Driver app pushes GPS every 4 seconds via FusedLocationProvider → Firebase Realtime DB → students see live bus position on Google Maps. Haversine-based per-stop ETA. FCM proximity notifications when your bus is 5 minutes away. Role-based app: student, driver, and admin interfaces.
-
-`Kotlin` `Jetpack Compose` `Firebase RTDB` `Google Maps SDK` `Dagger Hilt` `FCM`
-
----
-
-### 🕉️ [SanatanaGPT](https://github.com/sksalapur/SanatanaGPT) · [Live →](https://sanatangpt-ee992.web.app)
-> RAG-powered AI chatbot grounded in Hindu scriptures
-
-Full-stack RAG: embed query → Firestore `findNearest()` vector search → Groq LLaMA 3.3 70B with Gemini fallback → citation-grounded answer. Answers cite the exact Gita verse or Upanishad passage. Admin panel for scripture ingestion. Deployed on Firebase Hosting + Hugging Face Spaces.
-
-`Next.js` `FastAPI` `Firestore Vector Search` `Groq` `Gemini` `Docker` `sentence-transformers`
-
----
-
-### 📱 [gsmarena-scraper](https://github.com/sksalapur/gsmarena-scraper)
-> Scraped 2,751 devices across 13 brands — 106,410 specs in a SQLite database
-
-`Python` `BeautifulSoup` `SQLite`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksalapur&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksalapur&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📬 Get In Touch
-
-I'm open to **remote roles** and **freelance Android / Python projects**.
-
-- 📧 **Email**: [sksalapur@gmail.com](mailto:sksalapur@gmail.com)
-- 📞 **Phone**: +91 72594 77116
-- 💼 **LinkedIn**: [linkedin.com/in/sksalapur](https://linkedin.com/in/sksalapur)
-
-> If you're building something interesting, let's talk.
