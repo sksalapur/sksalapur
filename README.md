@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shashank%20Salapur&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Python%20Backend%20Engineer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=250&section=header&text=Shashank%20Salapur&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Python%20Backend%20Engineer&descAlignY=60&descAlign=50&fontColor=ffffff" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+Things+That+Actually+Ship;Android+%7C+Kotlin+%7C+Jetpack+Compose;Python+%7C+FastAPI+%7C+ML+Pipelines;Open+To+Remote+%26+Freelance+Roles" alt="Typing SVG" />
 </div>
@@ -81,14 +81,14 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalapur&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalapur&theme=dark&hide_border=true&border_radius=10&background=111111" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksalapur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&background=1a1b27" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksalapur&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sksalapur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=111111" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksalapur&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=111111" height="150" alt="Top Languages" />
 </div>
 
 
