@@ -90,14 +90,14 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">✅ <a href="https://github.com/sksalapur/TaskSync">TaskSync</a></h3>
+      <h3 align="center">🌍 <a href="https://github.com/sksalapur/TerraSync">TerraSync</a></h3>
       <br />
-      <p><strong>Collaborative Task Management App</strong></p>
-      <p>A fast, synchronized task tracking system with real-time updates and seamless state management.</p>
+      <p><strong>Geotechnical Engineering & Soil Tracking</strong></p>
+      <p>Real-time soil permeability computation (k-values) and live site risk-inference using the Google Gemini AI SDK.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room_DB-003B57?logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose-3DDC84?logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
       </p>
     </td>
   </tr>
