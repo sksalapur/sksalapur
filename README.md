@@ -32,11 +32,12 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
       <h3 align="center">📸 <a href="https://github.com/sksalapur/RoutePix">RoutePix</a></h3>
       <br />
       <p><strong>Unlimited Telegram-backed Cloud Albums + On-Device AI Search</strong></p>
-      <p>Zero-cost collaborative photo sharing using Telegram Bot API as a backend. WorkManager uploads & AES-256-GCM encryption.</p>
+      <p>Zero-cost collaborative photo sharing using Telegram Bot API as a backend. WorkManager uploads, AES-256-GCM encryption, and <strong>on-device ML Kit semantic search</strong> &#8212; type <code>water</code> to surface every beach, lake &amp; river photo instantly.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Telegram_API-26A5E4?logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML_Kit-34A853?logo=google&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
