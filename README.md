@@ -31,7 +31,7 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
     <td width="50%" valign="top">
       <h3 align="center">📸 <a href="https://github.com/sksalapur/RoutePix">RoutePix</a></h3>
       <br />
-      <p><strong>Unlimited Telegram-backed Cloud Albums</strong></p>
+      <p><strong>Unlimited Telegram-backed Cloud Albums + On-Device AI Search</strong></p>
       <p>Zero-cost collaborative photo sharing using Telegram Bot API as a backend. WorkManager uploads & AES-256-GCM encryption.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
