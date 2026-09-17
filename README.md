@@ -129,12 +129,21 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=sksalapur&theme=dark&hide_border=true&border_radius=10&background=111111" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=sksalapur&theme=dark&hide_border=true&border_radius=10&background=111111" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksalapur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=111111" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksalapur&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=111111" height="150" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/sksalapur/sksalapur/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sksalapur/sksalapur/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="150" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/sksalapur/sksalapur/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="150" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sksalapur/sksalapur/output/profile-summary-card-output/github_dark/3-stats.svg" height="150" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/sksalapur/sksalapur/output/profile-summary-card-output/github_dark/4-productive-time.svg" height="150" alt="Productive Time" />
 </div>
