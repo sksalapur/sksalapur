@@ -17,13 +17,33 @@
 I'm a developer who's comfortable across the full stack. My sweet spot is building **complete, deployed products**, not just prototypes. Every project here has a README, a real usecase, and code that runs in production.
 
 - 🤖 **AI / ML**: Creating intelligent systems using Firestore vector search, Groq LLaMA, Google Gemini, `scikit-learn`, `LIME`, and `VADER`.
-- 📱 **Android**: Building native Android apps using `Kotlin`, `Jetpack Compose`, `MVVM`, and `Dagger Hilt`.
+- 📱 **Android**: Building native Android apps using `Kotlin`, `Jetpack Compose`, `MVVM`, `Dagger Hilt`, and `Bluetooth RFCOMM`.
 - ⚙️ **Backend**: Creating robust APIs and servers using `Python`, `FastAPI`, `Docker`, and `Render`.
 - 🕸️ **Web**: Full-stack web app development with `Next.js`, `React`, `TypeScript`, and `TailwindCSS`.
+- 🔧 **IoT / Hardware**: Real-time telemetry via `OBD2/ELM327`, `Room Database`, and Android `Foreground Services`.
 
 ---
 
 ## 🚀 Featured Projects
+
+<!-- SPOTLIGHT PROJECT -->
+<table>
+  <tr>
+    <td align="center">
+      <h3>🏍️ <a href="https://github.com/sksalapur/MotoCortex">MotoCortex</a> &nbsp;—&nbsp; <em>NEW</em></h3>
+      <p><strong>Next-Gen Motorcycle Telemetry & Diagnostics Dashboard</strong></p>
+      <p>Privacy-first, 100% offline Android HUD for real-time engine metrics. Bluetooth RFCOMM with reflection fallback for cheap ELM327 adapters, smart ignition detection, calibrated throttle display, and background trip recording via Foreground Services + WakeLocks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin_2.0+-7F52FF?logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bluetooth_RFCOMM-0082FC?logo=bluetooth&logoColor=white" />
+        <img src="https://img.shields.io/badge/OBD2_/_ELM327-FF4500" />
+        <img src="https://img.shields.io/badge/Room_DB-34A853?logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Foreground_Services-3DDC84?logo=android&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <table bordercolor="#30363d">
   <!-- ROW 1 -->
@@ -109,7 +129,7 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalapur&theme=dark&hide_border=true&border_radius=10&background=111111" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=sksalapur&theme=dark&hide_border=true&border_radius=10&background=111111" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
@@ -118,5 +138,3 @@ I'm a developer who's comfortable across the full stack. My sweet spot is buildi
   <img src="https://github-readme-stats.vercel.app/api?username=sksalapur&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=111111" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksalapur&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=111111" height="150" alt="Top Languages" />
 </div>
-
-
